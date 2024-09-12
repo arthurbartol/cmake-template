@@ -1,0 +1,5 @@
+# Ignore default vuild directory
+build/
+
+# Ignore user's workspace
+workspace/
